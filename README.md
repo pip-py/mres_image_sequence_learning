@@ -1,4 +1,7 @@
 # SimVPv2 for Image Sequence Interpolation and Extrapolation 2025-01
+### Full Assignment Doc:
+
+[**Link to PDF**](https://github.com/pip-py/mres_image_sequence_learning/blob/main/JM_AMML_Assignment_2025_v3.pdf)
 
 [**Link to OpenSTL GitHub**](https://github.com/chengtan9907/OpenSTL)
 
@@ -19,11 +22,6 @@ From paper:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2040b3fc-992b-4975-b753-f9c5418b4b8f" alt="Model Output Example"/>
 </p>
-
-
-### Full Assignment Doc:
-
-[**Link to PDF**](https://github.com/pip-py/mres_image_sequence_learning/blob/main/JM_AMML_Assignment_2025_v3.pdf)
 
 
 ### My reflection:
