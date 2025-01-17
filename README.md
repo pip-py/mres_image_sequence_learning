@@ -1,6 +1,6 @@
 # SimVPv2 for Image Sequence Interpolation and Extrapolation 2025-01
 
-
+[**Link to OpenSTL GitHub**](https://github.com/chengtan9907/OpenSTL)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0042474e-6a42-40a1-874e-bcf43b2f5053" alt="Image Sequence Example"/>
